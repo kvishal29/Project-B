@@ -1,2 +1,1 @@
-#Project-B :
-Predicting house prices using Machine Learning
+#Project-B : In this project, we utilize datasets provided by Kaggle to explore and implement various machine learning techniques for house price prediction. The datasets include train.csv for model training, test.csv for prediction, data_description.txt with property feature details, and sample_submission.csv as a guide for submission format. Techniques such as Linear Regression, Support Vector Machines (SVM), and Bayesian Classification are applied to uncover relationships between property attributes and market values. Each model's performance is evaluated based on prediction accuracy and computational efficiency, aiming to identify the most suitable algorithm for house price prediction. 
